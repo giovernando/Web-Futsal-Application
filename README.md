@@ -1,4 +1,4 @@
-# Laravel 8 - Futsal booking Berbasis Web
+# Laravel  - Futsal booking Berbasis Web
 
 ## Screenshots
 
